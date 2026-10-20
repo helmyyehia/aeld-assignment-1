@@ -53,3 +53,12 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Advanced Embedded Linux Development (AELD)
+writer
+Test_*_Runner.c
+build/
+crosstool-ng
+aesd-build
+.vscode/
+test.sh.log
